@@ -1,0 +1,1 @@
+ImageIcon icon = new ImageIcon("./mole.png");
